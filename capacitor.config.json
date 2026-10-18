@@ -1,0 +1,9 @@
+{
+  "appId": "com.geopolitics.dummynationultra",
+  "appName": "Dummynation Ultra",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

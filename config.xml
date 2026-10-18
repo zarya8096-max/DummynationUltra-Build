@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.geopolitics.dummynationultra" version="2.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Dummynation Ultra</name>
+    <description>شبیه‌ساز کامل ژئوپلیتیک ۱۹۵ کشور، گروهک‌ها و جنگ‌های ترکیبی</description>
+    <content src="www/index.html" />
+    <preference name="Orientation" value="landscape" />
+    <preference name="Fullscreen" value="true" />
+    <access origin="*" />
+</widget>
